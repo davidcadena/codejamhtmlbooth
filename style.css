@@ -1,4 +1,27 @@
 
   body {
     margin: 0px;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  
+  #cj_logo {
+    margin-left: 25vw;
+    width: 50vw;
+    padding-top: 3vw;
+    }
+
+  .section {
+    width: 90vw;
+    margin-left: 5vw;
+  }
+
+  .section h1 {
+    color: #111;
+    font-size: 3.5vw;
+    font-weight: 700;
+  }
+
+  .section p {
+    font-size: 2vw;
+    font-weight: 300;
   }
