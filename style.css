@@ -3,7 +3,7 @@
     margin: 0px;
     font-family: 'Roboto Condensed', sans-serif;
   }
-  
+
   #cj_logo {
     margin-left: 25vw;
     width: 50vw;
@@ -24,4 +24,9 @@
   .section p {
     font-size: 2vw;
     font-weight: 300;
+  }
+
+  #smile {
+    font-size: 3vw;
+    vertical-align: middle;
   }
