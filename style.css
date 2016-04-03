@@ -31,3 +31,8 @@
     font-size: 3vw;
     vertical-align: middle;
   }
+
+  .code_sample {
+    padding: 1vw;
+    font-size: 1.25vw;
+  }
