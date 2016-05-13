@@ -12,6 +12,11 @@
     padding-top: 3vw;
     }
 
+  #copy_right {
+    font-size: 25px;
+    vertical-align: top;
+  }
+
   .section {
     width: 90vw;
     margin-left: 5vw;
@@ -35,4 +40,10 @@
   .code_sample {
     padding: 1vw;
     font-size: 1.25vw;
+  }
+
+  .p_sample {
+    color: Green;
+    font-family: Georgia, Serif;
+    font-weight: bold;
   }
